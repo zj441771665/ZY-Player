@@ -22,17 +22,6 @@
     "reverseOrder": false
   },
   {
-    "id": 3,
-    "key": "yilans",
-    "name": "8090资源",
-    "api": "http://zy.yilans.net:8090/api.php/provide/vod/at/xml",
-    "jiexiUrl": "",
-    "group": "影视",
-    "isActive": false,
-    "status": "失效",
-    "reverseOrder": false
-  },
-  {
     "id": 4,
     "key": "6Uzy",
     "name": "6U资源",
@@ -41,28 +30,6 @@
     "group": "影视",
     "isActive": true,
     "status": "可用",
-    "reverseOrder": false
-  },
-  {
-    "id": 5,
-    "key": "leduozy",
-    "name": "乐多资源网",
-    "api": "http://api.leduozy.com/inc/api.php",
-    "jiexiUrl": "",
-    "group": "影视",
-    "isActive": false,
-    "status": "失效",
-    "reverseOrder": false
-  },
-  {
-    "id": 6,
-    "key": "zitv",
-    "name": "橘猫影视",
-    "api": "http://www.zitv.cc/api.php/provide/vod/at/xml",
-    "jiexiUrl": "",
-    "group": "影视",
-    "isActive": false,
-    "status": "失效",
     "reverseOrder": false
   },
   {
@@ -209,17 +176,6 @@
     "reverseOrder": false
   },
   {
-    "id": 20,
-    "key": "travelbooking",
-    "name": "唯一资源",
-    "api": "http://api.travelbooking.cc/xml",
-    "jiexiUrl": "",
-    "group": "影视",
-    "isActive": false,
-    "status": "失效",
-    "reverseOrder": false
-  },
-  {
     "id": 21,
     "key": "guangsuapi",
     "name": "光速资源",
@@ -264,45 +220,12 @@
     "reverseOrder": false
   },
   {
-    "id": 25,
-    "key": "zycaiji",
-    "name": "星辰资源",
-    "api": "http://www.zycaiji.net:7788/api.php/provide/vod/at/xml",
-    "jiexiUrl": "",
-    "group": "影视",
-    "isActive": false,
-    "status": "失效",
-    "reverseOrder": false
-  },
-  {
-    "id": 26,
-    "key": "kudian8",
-    "name": "酷点资源",
-    "api": "https://kudian8.com/api.php/provide/vod/at/xml",
-    "jiexiUrl": "",
-    "group": "影视",
-    "isActive": true,
-    "status": "可用",
-    "reverseOrder": false
-  },
-  {
     "id": 27,
     "key": "zzrhgg",
     "name": "飘花资源",
     "api": "http://www.zzrhgg.com/api.php/provide/vod/at/xml",
     "jiexiUrl": "",
     "group": "影视",
-    "isActive": true,
-    "status": "可用",
-    "reverseOrder": false
-  },
-  {
-    "id": 28,
-    "key": "523zyw",
-    "name": "523资源",
-    "api": "https://caiji.523zyw.com/inc/seacmsapi.php",
-    "jiexiUrl": "",
-    "group": "18+",
     "isActive": true,
     "status": "可用",
     "reverseOrder": false
@@ -330,61 +253,6 @@
     "reverseOrder": false
   },
   {
-    "id": 31,
-    "key": "siwazyw",
-    "name": "丝袜资源",
-    "api": "https://siwazyw.cc/api.php/provide/vod/at/xml",
-    "jiexiUrl": "",
-    "group": "18+",
-    "isActive": false,
-    "status": "失效",
-    "reverseOrder": false
-  },
-  {
-    "id": 32,
-    "key": "apilyzy",
-    "name": "老鸭",
-    "api": "https://api.apilyzy.com/api.php/provide/vod/at/xml",
-    "jiexiUrl": "",
-    "group": "18+",
-    "isActive": false,
-    "status": "失效",
-    "reverseOrder": false
-  },
-  {
-    "id": 33,
-    "key": "huakuiapi",
-    "name": "花魁",
-    "api": "https://caiji.huakuiapi.com/inc/api.php",
-    "jiexiUrl": "",
-    "group": "18+",
-    "isActive": false,
-    "status": "失效",
-    "reverseOrder": false
-  },
-  {
-    "id": 34,
-    "key": "apittzy",
-    "name": "探探资源",
-    "api": "https://apittzy.com/api.php/provide/vod/at/xml",
-    "jiexiUrl": "",
-    "group": "18+",
-    "isActive": true,
-    "status": "可用",
-    "reverseOrder": false
-  },
-  {
-    "id": 35,
-    "key": "kkzy",
-    "name": "KK资源网",
-    "api": "https://kkzy.me/api.php/provide/vod/at/xmlsea",
-    "jiexiUrl": "",
-    "group": "18+",
-    "isActive": false,
-    "status": "失效",
-    "reverseOrder": false
-  },
-  {
     "id": 36,
     "key": "maozyapi",
     "name": "色猫资源",
@@ -407,17 +275,6 @@
     "reverseOrder": false
   },
   {
-    "id": 38,
-    "key": "apiabzy",
-    "name": "爱播资源",
-    "api": "https://cj.apiabzy.com/api.php/provide/vod/at/xml",
-    "jiexiUrl": "",
-    "group": "18+",
-    "isActive": false,
-    "status": "失效",
-    "reverseOrder": false
-  },
-  {
     "id": 40,
     "key": "shayu",
     "name": "shayu",
@@ -426,17 +283,6 @@
     "group": "18+",
     "isActive": true,
     "status": "可用",
-    "reverseOrder": false
-  },
-  {
-    "id": 41,
-    "key": "7777688",
-    "name": "76色色",
-    "api": "http://m.7777688.com/inc/api.php",
-    "jiexiUrl": "",
-    "group": "18+",
-    "isActive": false,
-    "status": "失效",
     "reverseOrder": false
   },
   {
@@ -459,28 +305,6 @@
     "group": "18+",
     "isActive": true,
     "status": "可用",
-    "reverseOrder": false
-  },
-  {
-    "id": 44,
-    "key": "hjzy",
-    "name": "花椒资源",
-    "api": "https://apihjzy.com/api.php/Seacms/vod/at/xml",
-    "jiexiUrl": "",
-    "group": "18+",
-    "isActive": false,
-    "status": "失效",
-    "reverseOrder": false
-  },
-  {
-    "id": 45,
-    "key": "caomeiapi",
-    "name": "草莓资源",
-    "api": "https://caiji.caomeiapi.com/inc/api.php",
-    "jiexiUrl": "",
-    "group": "18+",
-    "isActive": false,
-    "status": "失效",
     "reverseOrder": false
   }
 ]
